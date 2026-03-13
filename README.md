@@ -9,6 +9,7 @@ The analysis begins by identifying the business problem, where the sugar product
 3. Achievable: Develop realistic strategies based on data insights from the dataset.
 4. Relevant: Align the analysis with the company’s goal of improving sales performance.
 5. Time-bound: Achieve the improved sales performance within 2025.
+
 To understand the underlying causes of low performance, the project applies Root Cause Analysis (RCA). The analysis identifies several key factors affecting sales performance, including unrealistic target setting, underutilization of seasonal events or annual celebrations to boost sales, and the lack of optimization of product preferences across different states.
 Based on these findings, the project proposes several strategies such as setting more realistic sales targets using Year-over-Year (YoY) growth analysis, leveraging seasonal sales opportunities, and optimizing region-based marketing strategies according to product preferences in each state.
 These insights aim to help the company improve sales performance and move closer to achieving 80% of the 2025 sales target through data-driven decision making.
